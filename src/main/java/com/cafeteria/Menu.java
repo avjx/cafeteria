@@ -13,7 +13,7 @@ public class Menu {
         do {
             // System.out.print("\033\143");// LIMPA TERMINAL
             System.out.println("\n\n-------------------------------------------");
-            System.out.println("              < CAFETERIA >                ");
+            System.out.println("               < CAFETERIA >               ");
             System.out.println("-------------------------------------------");
             System.out.println("[ 1 ] - Inserir um produto novo.");
             System.out.println("[ 2 ] - Atualizar o estoque de um produto.");
